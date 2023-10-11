@@ -1,0 +1,253 @@
+[09-Oct-2023 16:32:10 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:32:56 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:37:39 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:37:39 Europe/Istanbul] PHP Warning:  Undefined variable $get in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 32
+[09-Oct-2023 16:37:39 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php:32
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php(32): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 32
+[09-Oct-2023 16:38:04 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:38:04 Europe/Istanbul] PHP Warning:  Undefined variable $get in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 32
+[09-Oct-2023 16:38:04 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php:32
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php(32): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 32
+[09-Oct-2023 16:40:02 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:40:02 Europe/Istanbul] PHP Warning:  Undefined variable $get in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 33
+[09-Oct-2023 16:40:02 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php:33
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php(33): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 33
+[09-Oct-2023 16:40:10 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:59:30 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 16:59:30 Europe/Istanbul] PHP Warning:  Undefined variable $get_siso_class in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 38
+[09-Oct-2023 16:59:30 Europe/Istanbul] PHP Warning:  Array to string conversion in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 45
+[09-Oct-2023 17:00:21 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:00:21 Europe/Istanbul] PHP Warning:  Undefined variable $get_siso_id in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/class.php on line 38
+[09-Oct-2023 17:01:22 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:01:50 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:11:14 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:11:41 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:12:17 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:13:54 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:17:52 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:02 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:17 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:21 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:26 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:30 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:35 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:18:37 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:26:37 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:26:37 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/student.php on line 13
+[09-Oct-2023 17:26:41 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:27:10 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:27:12 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:27:20 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:27:24 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:28:54 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:29:06 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:29:11 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:44:18 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:44:20 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 17:52:25 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:04:57 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:05:00 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:05:00 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'class.teacher_id' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:16
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 16
+[09-Oct-2023 18:07:43 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:07:43 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:08:56 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:08:56 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:08:59 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:08:59 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:33 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:33 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:34 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:34 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:52 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:52 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:53 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:53 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:53 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:53 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:54 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:54 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:09:55 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:09:55 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:10:08 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:10:08 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:19
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 19
+[09-Oct-2023 18:10:37 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:10:37 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:16
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 16
+[09-Oct-2023 18:10:39 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:10:39 Europe/Istanbul] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '1' in 'where clause' in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php:16
+Stack trace:
+#0 /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 16
+[09-Oct-2023 18:11:29 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:11:29 Europe/Istanbul] PHP Warning:  Undefined variable $get_class_code in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 25
+[09-Oct-2023 18:11:43 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:11:43 Europe/Istanbul] PHP Warning:  Undefined variable $get_class_code in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 25
+[09-Oct-2023 18:11:49 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:11:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 18
+[09-Oct-2023 18:11:52 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:11:52 Europe/Istanbul] PHP Warning:  Undefined variable $get_class_code in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 25
+[09-Oct-2023 18:12:00 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:12:04 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:12:04 Europe/Istanbul] PHP Warning:  Undefined variable $get_class_code in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 25
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Undefined variable $get_info_class in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 32
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 32
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 64
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 65
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 66
+[09-Oct-2023 18:24:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 66
+[09-Oct-2023 18:28:25 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:30:30 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:30:36 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:33:09 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:34:10 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:40:38 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:42:44 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:42:59 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:44:04 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 13 in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 119
+[09-Oct-2023 18:45:34 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:55:28 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:55:28 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 13
+[09-Oct-2023 18:55:42 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:56:58 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:56:58 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 13
+[09-Oct-2023 18:57:03 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:57:22 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:58:24 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 18:58:24 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 18:58:28 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:09:46 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:09:46 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:09:53 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:09:53 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:10:12 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:10:12 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:10:30 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:10:35 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:10:35 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:10:38 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 34
+[09-Oct-2023 19:10:38 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:11:32 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:11:32 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:11:41 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:11:45 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:13 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:13 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:12:19 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:21 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:23 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:24 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:27 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:28 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:30 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:45 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:48 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:12:54 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:13:00 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:13:14 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:13:58 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:15:21 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:28:18 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:31:12 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:31:18 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:31:18 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:39:59 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:39:59 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:40:46 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:40:46 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:41:22 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:41:22 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:41:37 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:41:37 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:42:10 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:42:10 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:47:28 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:47:28 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:47:35 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:47:56 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:57:41 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:57:41 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:57:48 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:57:51 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:57:51 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 19:58:01 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:58:04 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 19:58:04 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[09-Oct-2023 20:11:12 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[09-Oct-2023 20:11:12 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[10-Oct-2023 16:54:53 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[10-Oct-2023 18:11:39 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[10-Oct-2023 18:11:45 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[10-Oct-2023 18:11:47 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[10-Oct-2023 18:11:47 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[11-Oct-2023 09:16:30 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:16:40 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:16:46 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:16:56 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:16:56 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[11-Oct-2023 09:17:06 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:17:09 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:17:09 Europe/Istanbul] PHP Warning:  Undefined array key "act" in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 7
+[11-Oct-2023 09:19:26 Europe/Istanbul] PHP Warning:  Undefined variable $page in /home/hdqfile/public_html/sinhvien.hdqfile.com/system/config.php on line 31
+[11-Oct-2023 09:19:26 Europe/Istanbul] PHP Warning:  Undefined variable $code_cv in /home/hdqfile/public_html/sinhvien.hdqfile.com/teacher/subject.php on line 3
